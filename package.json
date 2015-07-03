@@ -9,10 +9,23 @@
   "scripts": {
     "test": "node test/test.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mekentosj/doiscraper.git"
+  },
   "author": "Alex R. Young",
   "license": "MIT",
   "dependencies": {
     "request": "^2.36.0",
     "cheerio": "^0.17.0"
-  }
+  },
+  "keywords": [
+    "doi",
+    "scraper",
+    "crossref"
+  ],
+  "bugs": {
+    "url": "https://github.com/mekentosj/doiscraper/issues"
+  },
+  "homepage": "https://github.com/mekentosj/doiscraper"
 }
